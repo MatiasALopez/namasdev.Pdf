@@ -15,6 +15,7 @@
     <tags>namasdev</tags>
     <dependencies>
       <dependency id="namasdev.Core" version="1.0.1" />
+      <dependency id="PDFsharp-MigraDoc-wpf" version="1.50.5147" />
     </dependencies>
   </metadata>
 </package>
